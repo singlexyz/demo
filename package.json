@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  // "homepage": "https://singlexyz.github.io/demo",
+  "homepage": "https://singlexyz.github.io/demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
